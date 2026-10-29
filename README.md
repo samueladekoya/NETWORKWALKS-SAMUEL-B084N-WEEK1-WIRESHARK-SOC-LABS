@@ -1,4 +1,4 @@
-# networkwalks-wireshark-soc-labs
+# NETWORKWALKS-SAMUEL-B084N-WEEK1-WIRESHARK-SOC-LABS
 Week 1 extra project documenting hands-on Wireshark traffic analysis and SOC investigation exercises completed during the NetworkWalks Cybersecurity Internship.
 
 
