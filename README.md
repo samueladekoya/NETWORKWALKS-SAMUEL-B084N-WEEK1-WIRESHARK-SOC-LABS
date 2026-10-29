@@ -38,9 +38,10 @@ The exercises focused on inspecting network traffic, analyzing communication pro
 - Using packet evidence to investigate suspicious activity.
 
 **Evidence:** 
-![](Screenshots%20(480).png)
-![](Screenshots%20(484).png)
-![](Screenshots%20(489).png)
+![](Screenshot%20(480).png)
+![](Screenshot%20(484).png)
+![](Screenshot%20(489).png)
+
 
 ### Lab 4: Follow TCP Stream — Part 1
 
@@ -52,9 +53,10 @@ The exercises focused on inspecting network traffic, analyzing communication pro
 - Understanding how packet-level evidence reveals application activity.
 
 **Evidence:** 
-![](Screenshots%20(499).png)
-![](Screenshots%20(500).png)
-![](Screenshots%20(504).png)
+![](Screenshot%20(499).png)
+![](Screenshot%20(500).png)
+![](Screenshot%20(504).png)
+
 
 ### Lab 5: Follow TCP Stream — Part 2
 
@@ -68,9 +70,10 @@ The exercises focused on inspecting network traffic, analyzing communication pro
 **Security lesson:** Comments and debugging information left in published web pages can expose information that should not be public.
 
 **Evidence:** 
-![](Screenshots%20(509).png)
-![](Screenshots%20(513).png)
-![](Screenshots%20(518).png)
+![](Screenshot%20(509).png)
+![](Screenshot%20(513).png)
+![](Screenshot%20(518).png)
+
 
 ### Lab 6: HTTP Plain Text Credentials
 
@@ -82,9 +85,10 @@ The exercises focused on inspecting network traffic, analyzing communication pro
 - Recognizing why encrypted communication, such as HTTPS, is important.
 
 **Evidence:**
-![](Screenshots%20(526).png)
-![](Screenshots%20(528).png)
-![](Screenshots%20(529).png)
+![](Screenshot%20(526).png)
+![](Screenshot%20(528).png)
+![](Screenshot%20(529).png)
+
 
 ### Lab 7: Catch the Brute Force Attacker
 
@@ -93,13 +97,14 @@ The exercises focused on inspecting network traffic, analyzing communication pro
 **What I practised:**
 - Filtering FTP traffic.
 - Examining authentication requests and server responses.
-- Recognizing failed authentication responses, including `530 Login incorrect`.
+- Recognizing failed authentication responses.
 - Understanding how repeated failures can indicate password-guessing activity.
 
 **Evidence:** 
-![](Screenshots%20(535).png)
-![](Screenshots%20(540).png)
-![](Screenshots%20(542).png)
+![](Screenshot%20(535).png)
+![](Screenshot%20(540).png)
+![](Screenshot%20(542).png)
+
 
 ### Lab 8: Catch the Call Scammer
 
@@ -110,13 +115,12 @@ The exercises focused on inspecting network traffic, analyzing communication pro
 - Examining SIP call setup and termination messages.
 - Identifying RTP packets carrying voice media.
 
-**Investigation note:** RTP stream playback was restricted in the provided lab environment. The analysis therefore documents protocol-level observations without claiming to have verified the call's spoken content.
-
 **Evidence:** 
-![](Screenshots%20(549).png)
-![](Screenshots%20(550).png)
-![](Screenshots%20(556).png)
-![](Screenshots%20(557).png)
+![](Screenshot%20(549).png)
+![](Screenshot%20(550).png)
+![](Screenshot%20(556).png)
+![](Screenshot%20(557).png)
+
 
 ## Key Takeaways
 
@@ -135,9 +139,8 @@ These exercises helped me practise foundational skills used in security monitori
 
 ## Project Evidence
 
-Screenshots documenting the investigations are included in the `screenshots/` directory where available.
+Screenshots documenting the investigations are included in the repository.
 
-*Note: This repository documents educational lab exercises. Sensitive information, access codes, and unnecessary credential values should be redacted before publication.*
 
 ## Acknowledgements
 
